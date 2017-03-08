@@ -24,7 +24,7 @@ I made some modifications to be fiatable for ITOS.
 
 ####1st mode: OFF (Default)
 - You cant another buff while you have one active.
-- You cant buy buffs overpriced buffs (over 5000 silver)
+- You cant buy overpriced buffs (over 5000 silver)
 
 ####2nd mode: ON
 - Ask you if you want to cancel the active buff and buy a new one.

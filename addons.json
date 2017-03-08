@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Buff Shop EX",
+        "file" : "buffshopex",
+        "extension" : "ipf",
+        "fileVersion" : "v1.0.0",
+        "releaseTag" : "v1.0.0",
+        "unicode" : "✪",
+        "description" : "You can set fixed prices for your buffs and the store name too. Just type /buffshop for further help",
+        "tags" : [
+            "buff",
+            "shop",
+            "pardoner"
+]

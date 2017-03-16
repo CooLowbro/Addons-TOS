@@ -1,7 +1,7 @@
 [
     {
         "name" : "Buff Shop EX",
-        "file" : "buffshopex-v1.0.0",
+        "file" : "buffshopex",
         "extension" : "ipf",
         "fileVersion" : "v1.0.0",
         "releaseTag" : "v1.0.0",
@@ -11,6 +11,20 @@
             "buff",
             "shop",
             "pardoner"
+        ]
+    } 
+    {
+        "name" : "Good Bye Isabela",
+        "file" : "goodbyeisabela",
+        "extension" : "ipf",
+        "fileVersion" : "v1.0.0",
+        "releaseTag" : "v1.0.0",
+        "unicode" : "✪",
+        "description" : "Say good bye to overpriced buffs. This addon wont let you buy overprice buffs like 70k Bless. Type /gbi for futher help.",
+        "tags" : [
+            "buff",
+            "shop",
+            "overprice"
         ]
     } 
 ]
